@@ -59,9 +59,81 @@
 									</div>
 								</a>
 							</article>
+
+							<article class="articleList__item">
+								<a href="#">
+									<figure class="articleList__image">
+										<img src="../public/img/article_img/article_image.png">
+									</figure>
+									<div class="articleList__info">
+										<h3 class="articleList__headline">AUTOMATED CLIENT-SERVER EMULATION</h3>
+										<p class="articleList__text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pellentesque odio mauris, nec malesuada lacus porta non. Maecenas et neque venenatis, tempus sem id, venenatis dui. Sed laoreet ex nunc, nec tincidun.</p>
+										<div class="articleList__metadata">
+											<img class="articleList__metadata__logo" src="../public/img/article_img/articleLogo.png">
+											<span class="articleList__metadata__item">Fox</span>
+											<span class="articleList__metadata__item">30 min ago</span>
+											<span class="articleList__metadata__item articleList__metadata__item--readLater">Read later</span>
+										</div>
+									</div>
+								</a>
+							</article>
+
+							<article class="articleList__item">
+								<a href="#">
+									<figure class="articleList__image">
+										<img src="../public/img/article_img/article_image.png">
+									</figure>
+									<div class="articleList__info">
+										<h3 class="articleList__headline">AUTOMATED CLIENT-SERVER EMULATION</h3>
+										<p class="articleList__text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pellentesque odio mauris, nec malesuada lacus porta non. Maecenas et neque venenatis, tempus sem id, venenatis dui. Sed laoreet ex nunc, nec tincidun.</p>
+										<div class="articleList__metadata">
+											<img class="articleList__metadata__logo" src="../public/img/article_img/articleLogo.png">
+											<span class="articleList__metadata__item">Fox</span>
+											<span class="articleList__metadata__item">30 min ago</span>
+											<span class="articleList__metadata__item articleList__metadata__item--readLater">Read later</span>
+										</div>
+									</div>
+								</a>
+							</article>
 						</div>
 
 						<h2 class="articleList__sectionHeadline">Sports</h2>
+
+						<article class="articleList__item">
+							<a href="#">
+								<figure class="articleList__image">
+									<img src="../public/img/article_img/article_image.png">
+								</figure>
+								<div class="articleList__info">
+									<h3 class="articleList__headline">AUTOMATED CLIENT-SERVER EMULATION</h3>
+									<p class="articleList__text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pellentesque odio mauris, nec malesuada lacus porta non. Maecenas et neque venenatis, tempus sem id, venenatis dui. Sed laoreet ex nunc, nec tincidun.</p>
+									<div class="articleList__metadata">
+										<img class="articleList__metadata__logo" src="../public/img/article_img/articleLogo.png">
+										<span class="articleList__metadata__item">Fox</span>
+										<span class="articleList__metadata__item">30 min ago</span>
+										<span class="articleList__metadata__item articleList__metadata__item--readLater">Read later</span>
+									</div>
+								</div>
+							</a>
+						</article>
+
+						<article class="articleList__item">
+							<a href="#">
+								<figure class="articleList__image">
+									<img src="../public/img/article_img/article_image.png">
+								</figure>
+								<div class="articleList__info">
+									<h3 class="articleList__headline">AUTOMATED CLIENT-SERVER EMULATION</h3>
+									<p class="articleList__text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pellentesque odio mauris, nec malesuada lacus porta non. Maecenas et neque venenatis, tempus sem id, venenatis dui. Sed laoreet ex nunc, nec tincidun.</p>
+									<div class="articleList__metadata">
+										<img class="articleList__metadata__logo" src="../public/img/article_img/articleLogo.png">
+										<span class="articleList__metadata__item">Fox</span>
+										<span class="articleList__metadata__item">30 min ago</span>
+										<span class="articleList__metadata__item articleList__metadata__item--readLater">Read later</span>
+									</div>
+								</div>
+							</a>
+						</article>
 
 						<article class="articleList__item">
 							<a href="#">
