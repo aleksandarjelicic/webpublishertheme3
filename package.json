@@ -1,15 +1,23 @@
 {
-  "name": "zentral_plus",
+  "name": "Boilerplate",
   "version": "0.1.0",
   "devDependencies": {
-    "grunt": "^0.4.5",
-    "grunt-autoprefixer": "~2.0.0",
-    "grunt-contrib-concat": "~0.5.0",
-    "grunt-contrib-sass": "^0.9.2",
-    "grunt-contrib-uglify": "^0.9.1",
-    "grunt-contrib-watch": "~0.6.1",
-    "grunt-css-include-combine": "0.0.1",
-    "grunt-injector": "^0.6.1",
-    "load-grunt-tasks": "~1.0.0"
+    "gulp": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-concat": "*",
+    "gulp-cssmin": "*",
+    "gulp-import-css": "*",
+    "gulp-inject": "*",
+    "gulp-replace": "*",
+    "gulp-sass": "*",
+    "gulp-sourcemaps": "*",
+    "gulp-uglify": "*",
+    "gulp-watch": "*",
+    "node-sass": "*",
+    "sw-precache": "*",
+    "sw-toolbox": "*"
+  },
+  "dependencies": {
+
   }
 }
